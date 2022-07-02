@@ -1,5 +1,5 @@
 <p align="center"><img src="https://thehackernews.com/new-images/img/a/AVvXsEgseMugOlMQlJWC-iCctJFsgrsLvn4-y1JQ70Kx7gtzVJxz2BPkR4vU3p-4TpYpp0JVxflNFwYRgM_avpDWlop5fQ27z4CR1P-tAMZwl4qLC-aXqHSoq7ddBtDEswWfvM04WdMHUIZB0UibwGuXMPcuTpTAnP3fBtI3bX-oCm_E-UXAlJ41bMRpzzFM=s728-e1000"/></p>
-<h1 align="center">Hi 👋, I'm Senator Zeal</h1>
+<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"/>, I'm Senator Zeal</h1>
 <h5 align="center">Front-End Web Dev ▴ UI Designer ▴ Web3 Enthusiast</h5>
 
 
